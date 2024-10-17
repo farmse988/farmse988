@@ -29,8 +29,6 @@ farm data science</h4>
 [**Poly4AT**]([https://github.com/farmse988/Poly4AT]) <br />Poly4AT ist a shiny app written in R to access the INVEKOS API.
 <br />
 
-[**QuranTalk**](https://github.com/qurantalk) <br />An emotional well being and mental health app. The app helps people to navigate their emotions in the light of the Quran.
-<br />
 
 #### Django Apps
 [**Soil lighthouse**]() <br /> Currently developing a national database for soil data and dashboard.
@@ -39,8 +37,6 @@ farm data science</h4>
 
 
 <hr/>
-
-
 
 ### Cooperations
 
