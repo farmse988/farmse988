@@ -4,7 +4,7 @@
 <p align="center">
     <a href="">About Me</a>
     ·
-    <a href="mailto:">Email</a>
+    <a href="mailto:poly4AT@gmail.com">Email</a>
     ·
     
 </p>
@@ -20,7 +20,7 @@ farm data science</h4>
 - 🔭 I’m currently working on **Poly4AT**.
 - 🌱 I’m currently doing **a Ph.D.**.
 - 💬 Ask me about **soil science, agronomy data processing**.
-- 📫 How to reach me: 
+- 📫 How to reach me: [Email Me](mailto:poly4AT@gmail.com)
 - 😄 Pronouns: He/Him/His
 <!-- - 🤔 I’m looking for experts with database and APIs for developing a national farmdata base**. -->
 
@@ -39,4 +39,6 @@ farm data science</h4>
 <hr/>
 
 ### Cooperations
+
+I am interested in innovative projects that focus on agriculture, data science, and visualization, particularly where research intersects with practical applications. If you are working on or know of any initiatives in these areas, let's [connect](mailto:poly4AT@gmail.com)!
 
