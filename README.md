@@ -24,14 +24,14 @@ farm data science</h4>
 - 😄 Pronouns: He/Him/His
 <!-- - 🤔 I’m looking for experts with database and APIs for developing a national farmdata base**. -->
 
-### Projects
+## Projects
 #### R Coding
 [**Poly4AT**]([https://github.com/farmse988/Poly4AT]) <br />Poly4AT ist a shiny app written in R to access the INVEKOS API.
 <br />
 
 
 #### Django Apps
-[**Soil lighthouse**]() <br /> Currently developing a national database for soil data and dashboard.
+[**Soil lighthouse**] <br /> Currently developing a national database for soil data and dashboard.
 <br />
 
 
