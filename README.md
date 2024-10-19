@@ -31,7 +31,7 @@ farm data science</h4>
 
 
 #### Django Apps
-[**Soil lighthouse**] <br /> Currently developing a national database for soil data with various functions e.g. blog (Wagtail), dashboard (ploty and leaflet), literature collection and export (with Bibtex and RIS).
+[**Soil lighthouse**] <br /> Currently developing a database for soil data with various functions e.g. blog (Wagtail), dashboard (ploty and leaflet), literature collection and export (with Bibtex and RIS).
 <br />
 
 
